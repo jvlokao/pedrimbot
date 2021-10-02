@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^12.5.3",
+    "erela.js": "^2.3.3",
+    "pretty-ms": "^7.0.1",
+    "scrape-yt": "^1.4.8",
+    "ytdl-core": "^4.9.1",
+    "ytdl-core-discord": "^1.3.1"
+  },
+  "name": "bot-disc",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://jotavee@bitbucket.org/jotavee/pedrimbot.git"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/jotavee/pedrimbot/issues"
+  },
+  "homepage": "https://bitbucket.org/jotavee/pedrimbot#readme",
+  "description": ""
+}
